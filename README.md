@@ -10,3 +10,6 @@ http://repovibranium.earth.rochester.edu/JapaneseProject.zip
 
 ### Notes on the usage of the data and processing scripts:
 All relevant data and scripts associated with Olugboji et al. (2016) are included in the provided zip file `JanpaneseProject.zip`. The content of this package can be found in the `DataScripts/` directory. All processed SAC files can be found in the `ProcData/` directory. Major processing steps of the SAC files are performed using `DataQCwithOBSpy_c.ipynb`.
+
+<img width="1045" alt="image" src="https://github.com/URseismology/SSP_Data_Processing/assets/66632382/1056e3c5-9257-407e-a798-dcc5d4908b55">
+Figure. Location of the stations provided. 2 borehole stations (circles) and 17 ocean-bottom stations (triangles). The stations are color-coded based on the number of years deployed (red, 1 year deployments; white, 2 year deployments; black, 3 year deployments). Adapted from Figure 2 of Olugboji et al. (2016).
